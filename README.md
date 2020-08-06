@@ -4,4 +4,4 @@ https://www.cnblogs.com/yhjoker/p/12813423.html
 ## 配置中文
 https://blog.csdn.net/fx_yzjy101/article/details/80238014
 ## 配置中文输入法
-https://zhuanlan.zhihu.com/p/58837239
+https://blog.csdn.net/Enteral_zhao
