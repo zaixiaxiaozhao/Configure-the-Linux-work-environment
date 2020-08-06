@@ -1,6 +1,4 @@
 # 配置Linux工作环境（Ubuntu18.04）
-## 配置清华镜像
-> https://blog.csdn.net/CAU_Ayao/article/details/83507338
 ## 配置清华下载源
 https://www.cnblogs.com/yhjoker/p/12813423.html
 ## 配置中文
